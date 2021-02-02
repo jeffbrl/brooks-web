@@ -119,14 +119,11 @@ link = "https://gethugothemes.com/shop/"
 
 ############################## Social Site ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/jeffbrl"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/jeffbrl"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://linkedin.com/in/jeffloughridge"
