@@ -102,7 +102,7 @@ expire_days = 2
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 title = "I'm Jeff Loughridge. <br> I advise clients about cloud and traditional infrastructure."
-image = "images/banner/banner-2.png"
+image = "images/banner/banner-2.webp"
 
 
 ######################## call to action ###############################
