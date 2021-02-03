@@ -78,7 +78,7 @@ logo = "images/logo.png"
 author = "Themefisher"
 description = "Jeff Loughridge of Brooks Consulting LLC helps clients with cloud and traditional infrastructure"
 # google tag manager
-google_tag_manager = "" # your id
+google_tag_manager = "GTM-N8CMGMJ" # your id
 # contact form action
 contact_form_action = "https://formspree.io/f/myybvyez" # contact form works with : https://formspree.io
 # copyright
